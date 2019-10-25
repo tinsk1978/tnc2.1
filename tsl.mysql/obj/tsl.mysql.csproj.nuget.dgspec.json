@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\tsl\\tsl.mysql\\tsl.mysql.csproj": {}
+    "D:\\source\\repos\\tnc2.1\\tsl.mysql\\tsl.mysql.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\tsl\\tsl.mysql\\tsl.mysql.csproj": {
+    "D:\\source\\repos\\tnc2.1\\tsl.mysql\\tsl.mysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\tsl\\tsl.mysql\\tsl.mysql.csproj",
+        "projectUniqueName": "D:\\source\\repos\\tnc2.1\\tsl.mysql\\tsl.mysql.csproj",
         "projectName": "tsl.mysql",
-        "projectPath": "D:\\source\\repos\\tsl\\tsl.mysql\\tsl.mysql.csproj",
+        "projectPath": "D:\\source\\repos\\tnc2.1\\tsl.mysql\\tsl.mysql.csproj",
         "packagesPath": "C:\\Users\\TinSK\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\tsl\\tsl.mysql\\obj\\",
+        "outputPath": "D:\\source\\repos\\tnc2.1\\tsl.mysql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

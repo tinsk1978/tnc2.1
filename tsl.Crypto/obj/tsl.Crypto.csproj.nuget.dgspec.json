@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\tsl\\tsl.Crypto\\tsl.Crypto.csproj": {}
+    "D:\\source\\repos\\tnc2.1\\tsl.Crypto\\tsl.Crypto.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\tsl\\tsl.Crypto\\tsl.Crypto.csproj": {
+    "D:\\source\\repos\\tnc2.1\\tsl.Crypto\\tsl.Crypto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\tsl\\tsl.Crypto\\tsl.Crypto.csproj",
+        "projectUniqueName": "D:\\source\\repos\\tnc2.1\\tsl.Crypto\\tsl.Crypto.csproj",
         "projectName": "tsl.Crypto",
-        "projectPath": "D:\\source\\repos\\tsl\\tsl.Crypto\\tsl.Crypto.csproj",
+        "projectPath": "D:\\source\\repos\\tnc2.1\\tsl.Crypto\\tsl.Crypto.csproj",
         "packagesPath": "C:\\Users\\TinSK\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\tsl\\tsl.Crypto\\obj\\",
+        "outputPath": "D:\\source\\repos\\tnc2.1\\tsl.Crypto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

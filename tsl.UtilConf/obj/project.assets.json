@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\tsl\\tsl.UtilConf\\tsl.UtilConf.csproj",
+      "projectUniqueName": "D:\\source\\repos\\tnc2.1\\tsl.UtilConf\\tsl.UtilConf.csproj",
       "projectName": "tsl.UtilConf",
-      "projectPath": "D:\\source\\repos\\tsl\\tsl.UtilConf\\tsl.UtilConf.csproj",
+      "projectPath": "D:\\source\\repos\\tnc2.1\\tsl.UtilConf\\tsl.UtilConf.csproj",
       "packagesPath": "C:\\Users\\TinSK\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\tsl\\tsl.UtilConf\\obj\\",
+      "outputPath": "D:\\source\\repos\\tnc2.1\\tsl.UtilConf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

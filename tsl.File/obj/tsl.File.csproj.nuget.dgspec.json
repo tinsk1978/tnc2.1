@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\tsl\\tsl.File\\tsl.File.csproj": {}
+    "D:\\source\\repos\\tnc2.1\\tsl.File\\tsl.File.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\tsl\\tsl.File\\tsl.File.csproj": {
+    "D:\\source\\repos\\tnc2.1\\tsl.File\\tsl.File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\tsl\\tsl.File\\tsl.File.csproj",
+        "projectUniqueName": "D:\\source\\repos\\tnc2.1\\tsl.File\\tsl.File.csproj",
         "projectName": "tsl.File",
-        "projectPath": "D:\\source\\repos\\tsl\\tsl.File\\tsl.File.csproj",
+        "projectPath": "D:\\source\\repos\\tnc2.1\\tsl.File\\tsl.File.csproj",
         "packagesPath": "C:\\Users\\TinSK\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\tsl\\tsl.File\\obj\\",
+        "outputPath": "D:\\source\\repos\\tnc2.1\\tsl.File\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
