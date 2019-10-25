@@ -1,0 +1,8 @@
+D:\source\repos\tsl\tsl.UtilConf\bin\Debug\netcoreapp2.1\tsl.UtilConf.deps.json
+D:\source\repos\tsl\tsl.UtilConf\bin\Debug\netcoreapp2.1\tsl.UtilConf.dll
+D:\source\repos\tsl\tsl.UtilConf\obj\Debug\netcoreapp2.1\tsl.UtilConf.csprojAssemblyReference.cache
+D:\source\repos\tsl\tsl.UtilConf\obj\Debug\netcoreapp2.1\tsl.UtilConf.AssemblyInfoInputs.cache
+D:\source\repos\tsl\tsl.UtilConf\obj\Debug\netcoreapp2.1\tsl.UtilConf.AssemblyInfo.cs
+D:\source\repos\tsl\tsl.UtilConf\bin\Debug\netcoreapp2.1\tsl.UtilConf.pdb
+D:\source\repos\tsl\tsl.UtilConf\obj\Debug\netcoreapp2.1\tsl.UtilConf.dll
+D:\source\repos\tsl\tsl.UtilConf\obj\Debug\netcoreapp2.1\tsl.UtilConf.pdb

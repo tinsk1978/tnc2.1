@@ -1,0 +1,9 @@
+D:\source\repos\tsl\tsl.File\bin\Release\netcoreapp2.1\tsl.File.deps.json
+D:\source\repos\tsl\tsl.File\bin\Release\netcoreapp2.1\tsl.File.dll
+D:\source\repos\tsl\tsl.File\bin\Release\netcoreapp2.1\tsl.File.pdb
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.csprojAssemblyReference.cache
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.csproj.CoreCompileInputs.cache
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.AssemblyInfoInputs.cache
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.AssemblyInfo.cs
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.dll
+D:\source\repos\tsl\tsl.File\obj\Release\netcoreapp2.1\tsl.File.pdb

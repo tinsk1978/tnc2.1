@@ -1,0 +1,9 @@
+D:\source\repos\tsl\tsl.Crypto\bin\Release\netcoreapp2.1\tsl.Crypto.deps.json
+D:\source\repos\tsl\tsl.Crypto\bin\Release\netcoreapp2.1\tsl.Crypto.dll
+D:\source\repos\tsl\tsl.Crypto\bin\Release\netcoreapp2.1\tsl.Crypto.pdb
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.csprojAssemblyReference.cache
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.csproj.CoreCompileInputs.cache
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.AssemblyInfoInputs.cache
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.AssemblyInfo.cs
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.dll
+D:\source\repos\tsl\tsl.Crypto\obj\Release\netcoreapp2.1\tsl.Crypto.pdb

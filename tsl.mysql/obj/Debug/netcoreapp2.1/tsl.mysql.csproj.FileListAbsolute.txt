@@ -1,0 +1,15 @@
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.mysql.deps.json
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.mysql.dll
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.AssemblyInfoInputs.cache
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.AssemblyInfo.cs
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.mysql.pdb
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.csprojAssemblyReference.cache
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.dll
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.pdb
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.Crypto.dll
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.File.dll
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.UtilConf.dll
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.Crypto.pdb
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.File.pdb
+D:\source\repos\tsl\tsl.mysql\bin\Debug\netcoreapp2.1\tsl.UtilConf.pdb
+D:\source\repos\tsl\tsl.mysql\obj\Debug\netcoreapp2.1\tsl.mysql.csproj.CopyComplete

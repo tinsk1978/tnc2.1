@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>tlin</Authors>
+    <Company>TinSK Lin</Company>
+    <Description>Mysql database operation class library for .Net core 2.1</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="tsl.Crypto">
+      <HintPath>..\tsl.Crypto\bin\Release\netcoreapp2.1\tsl.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="tsl.File">
+      <HintPath>..\tsl.File\bin\Release\netcoreapp2.1\tsl.File.dll</HintPath>
+    </Reference>
+    <Reference Include="tsl.UtilConf">
+      <HintPath>..\tsl.UtilConf\bin\Release\netcoreapp2.1\tsl.UtilConf.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
